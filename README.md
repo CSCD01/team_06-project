@@ -16,3 +16,4 @@
 
 ## Deliverable 3
 - [d3_report.pdf](/reports/d3/d3_report.pdf)
+- [UMLs](/reports/d3/UMLs)
