@@ -20,5 +20,5 @@
 
 ## Deliverable 4
 - [d4_report.pdf](/reports/d4/d4_report.pdf)
-- [UMLs] (/reports/d4/UMLs)
+- [UMLs](/reports/d4/UMLs)
 - [Meeting Notes](/reports/d4)
